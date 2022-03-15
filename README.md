@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+#How to run application
 
 This project is credited to code ninja's tutorial on modern react JS: https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
 
